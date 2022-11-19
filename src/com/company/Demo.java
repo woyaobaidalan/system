@@ -12,6 +12,7 @@ public class Demo {
         System.out.println("pull");
 
 
+        System.out.println("push test2");
         System.out.println("pull test2");
     }
 }
