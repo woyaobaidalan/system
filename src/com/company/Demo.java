@@ -7,8 +7,8 @@ public class Demo {
         System.out.println("123");
 
         System.out.println("push");
-        
-        
+
+        System.out.println("----");
         System.out.println("pull");
     }
 }
