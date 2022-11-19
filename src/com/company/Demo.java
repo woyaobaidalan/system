@@ -9,6 +9,6 @@ public class Demo {
         System.out.println("push");
         
         
-        System.out.println("pull");
+        System.out.println("pull test2");
     }
 }
